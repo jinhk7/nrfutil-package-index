@@ -1,2 +1,3 @@
 {"name":"nrfutil-x86_64-pc-windows-msvc","vers":"7.2.0","cksum":"012d25a5a6ddefe4a824450483ed2c0830e1b8dc3696868b2f219d89603b9a58","yanked":false}
 {"name":"nrfutil-x86_64-pc-windows-msvc","vers":"7.3.0","cksum":"726023c304b39963b57d25a9ad4ab57f4e288d5203afaf0cf6ff42a0758c8325","yanked":false}
+{"name":"nrfutil-x86_64-pc-windows-msvc","vers":"7.4.1","cksum":"23fca0886db8b5d4a815a1ed739847b0ac217a80c3ddeeebc3f26c4e91859be4","yanked":false}
