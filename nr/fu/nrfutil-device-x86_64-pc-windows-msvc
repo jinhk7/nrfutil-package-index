@@ -2,3 +2,4 @@
 {"name":"nrfutil-device-x86_64-pc-windows-msvc","vers":"1.0.1","cksum":"cc6b558e0a5fa7662f8fadc21199169c80e31c6f3a54e044890a66f278b95de5","yanked":false}
 {"name":"nrfutil-device-x86_64-pc-windows-msvc","vers":"1.1.0","cksum":"462789e078bb8c86144ae721fc210d849f4db79e3cd2bd49c346d124b8a705e4","yanked":false}
 {"name":"nrfutil-device-x86_64-pc-windows-msvc","vers":"1.1.1","cksum":"fb858c8c5a7af70b05720787bfb4cfb7cf8d5797fc3ae2b37b6b9bc392291408","yanked":false}
+{"name":"nrfutil-device-x86_64-pc-windows-msvc","vers":"1.2.0","cksum":"1f541dcb8d5f18020dbae19339f1d6c1f3a4bcd1607672f537eccbe019ab5523","yanked":false}
