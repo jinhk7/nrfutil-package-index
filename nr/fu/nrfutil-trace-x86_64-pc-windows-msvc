@@ -1,3 +1,4 @@
 {"name":"nrfutil-trace-x86_64-pc-windows-msvc","vers":"1.0.0","cksum":"8721e48240645628d7e2664d5a20616abb2141c0de55726b7d5109c52585301e","yanked":true}
 {"name":"nrfutil-trace-x86_64-pc-windows-msvc","vers":"1.0.1","cksum":"62d8ac1389c01e72e288141534055d076943fba2809513bee54d1ce68d43e210","yanked":false}
 {"name":"nrfutil-trace-x86_64-pc-windows-msvc","vers":"2.0.0","cksum":"17645cce3f37be862031c99806e8c18578a2ec1b8c7b50def9ae7885fb20d682","yanked":false}
+{"name":"nrfutil-trace-x86_64-pc-windows-msvc","vers":"2.1.0","cksum":"41efdbb55501ef73e65b6faca6e60c9e8860dcad4f6a0904c3f6b0431757fbc9","yanked":false}
