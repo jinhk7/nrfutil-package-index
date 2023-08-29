@@ -1,3 +1,4 @@
 {"name":"nrfutil-toolchain-manager-x86_64-unknown-linux-gnu","vers":"0.13.0","cksum":"125ee278e8f0ab26e607ef86830968be22d7ce590f4fec58f6c9038b1b9da80b","yanked":false}
 {"name":"nrfutil-toolchain-manager-x86_64-unknown-linux-gnu","vers":"0.13.1","cksum":"edcb53d05fcf911ca17412c1e5c6ce62520033096d3cdf6f4dfc553b5fafc7e7","yanked":false}
 {"name":"nrfutil-toolchain-manager-x86_64-unknown-linux-gnu","vers":"0.13.2","cksum":"190ec64a72944d50b36b7169ff47b548573cfbac8937059b6c08b27d5c07e75c","yanked":false}
+{"name":"nrfutil-toolchain-manager-x86_64-unknown-linux-gnu","vers":"0.13.3","cksum":"2a7e61d57b27a64d1768d9f75a8be05a55249d9ad949c1c63d27ec58a9daea9c","yanked":false}
