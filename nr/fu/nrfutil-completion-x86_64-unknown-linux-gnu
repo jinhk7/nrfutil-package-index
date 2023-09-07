@@ -1,3 +1,4 @@
 {"name":"nrfutil-completion-x86_64-unknown-linux-gnu","vers":"1.0.0","cksum":"48b63e6f133e69f1373929c7d89ee5ed540e7cd791846a3ead60521ac5931568","yanked":false}
 {"name":"nrfutil-completion-x86_64-unknown-linux-gnu","vers":"1.1.0","cksum":"e5a551db0c0bf2013659d30a818854817fc7537a26e10cdf48a6eb512b2e2017","yanked":false}
 {"name":"nrfutil-completion-x86_64-unknown-linux-gnu","vers":"1.2.0","cksum":"7ff96d7ebe8f33543866ad35574426123081d20331a279407d6e141308952b7a","yanked":false}
+{"name":"nrfutil-completion-x86_64-unknown-linux-gnu","vers":"1.3.0","cksum":"9ed3daacbf1424c501d2889da8630b8b76a923243a601c7f7271c45e835f0b50","yanked":false}
