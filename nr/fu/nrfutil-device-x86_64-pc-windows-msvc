@@ -6,3 +6,4 @@
 {"name":"nrfutil-device-x86_64-pc-windows-msvc","vers":"1.2.2","cksum":"88370cbc5a78a6de64d1c8f3a67f47ad13a160ddea5f6b5bc8b648d14db7c983","yanked":false}
 {"name":"nrfutil-device-x86_64-pc-windows-msvc","vers":"1.4.1","cksum":"110bddeaab968bde8c71be670cb4bf7d9c00877e8a49534505dcdfff1a9895c6","yanked":false}
 {"name":"nrfutil-device-x86_64-pc-windows-msvc","vers":"1.4.2","cksum":"c129eb0877196f47995f0207bf35f570a1b62238afa273b2843f415c8e6a5bd9","yanked":false}
+{"name":"nrfutil-device-x86_64-pc-windows-msvc","vers":"1.4.3","cksum":"fb3d596e930475b353697d53d993510de70019233cea8a75750b26c350a9eba9","yanked":false}
