@@ -2,3 +2,4 @@
 {"name":"nrfutil-toolchain-manager-x86_64-apple-darwin","vers":"0.13.1","cksum":"236c8f207daf4bd04834f36dff1ca315fced3aa713390bf353380c5654330e7e","yanked":false}
 {"name":"nrfutil-toolchain-manager-x86_64-apple-darwin","vers":"0.13.2","cksum":"aab8bcafe724e5b2d475d536e4244d0a14cabc49424beb908758edbd476d8c77","yanked":false}
 {"name":"nrfutil-toolchain-manager-x86_64-apple-darwin","vers":"0.13.3","cksum":"a7c9982468d269f5e6c9630f73a128c695d3b64641bf3dba5945111c89ec7c10","yanked":false}
+{"name":"nrfutil-toolchain-manager-x86_64-apple-darwin","vers":"0.14.0","cksum":"4d997be347ca45342f11810d5ad07640cce70855b1faecadd30df9fb9a01693f","yanked":false}
