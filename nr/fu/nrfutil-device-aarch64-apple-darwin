@@ -9,3 +9,4 @@
 {"name":"nrfutil-device-aarch64-apple-darwin","vers":"1.4.3","cksum":"560f9abc9881612b1d7d03de72ef19a4cc2298e4dbf906bb09227560c235aa1f","yanked":false}
 {"name":"nrfutil-device-aarch64-apple-darwin","vers":"1.4.4","cksum":"62f79378d373608a56c15e2dcc45cb0c0381abc9834c708639666ccd8ad1cbb3","yanked":false}
 {"name":"nrfutil-device-aarch64-apple-darwin","vers":"1.4.5","cksum":"af123689a718dcf59532100f4c5050891a637dceb8b048977f6b5dcb016ebe3e","yanked":false}
+{"name":"nrfutil-device-aarch64-apple-darwin","vers":"2.0.2","cksum":"7d0def14141a8ea6a2b54636451f12b1190578e06d301a7070f7112b82708d44","yanked":false}
