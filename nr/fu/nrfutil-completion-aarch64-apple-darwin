@@ -2,3 +2,4 @@
 {"name":"nrfutil-completion-aarch64-apple-darwin","vers":"1.1.0","cksum":"e6a20e107c55d40a5a170502e5ac5392c3cef40524f5f63d8beaf4b609055f62","yanked":false}
 {"name":"nrfutil-completion-aarch64-apple-darwin","vers":"1.2.0","cksum":"9bb69456d9488d329e892aea4c8f14c5da1e53b1543cbf346ff3f2b0c0205a8c","yanked":false}
 {"name":"nrfutil-completion-aarch64-apple-darwin","vers":"1.3.0","cksum":"4be442451296b682f7519eaec81d5b6c89e61411ac752a8ae24f877a016673de","yanked":false}
+{"name":"nrfutil-completion-aarch64-apple-darwin","vers":"1.4.0","cksum":"8a40f460a745410dd2b2a2400b37e4b2500d3f5e65111047e4180e302ff983cc","yanked":false}
