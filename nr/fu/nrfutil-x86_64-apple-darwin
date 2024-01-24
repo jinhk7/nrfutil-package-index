@@ -3,3 +3,4 @@
 {"name":"nrfutil-x86_64-apple-darwin","vers":"7.4.1","cksum":"5492052f379b5895e25a0358fdac4168871bdf8e4a07e3a9145d157e4e233f0b","yanked":false}
 {"name":"nrfutil-x86_64-apple-darwin","vers":"7.5.0","cksum":"8d451a3fd7e2f7b354c8c14a8c6726aa70b43c95cd79166f78eae03edc2e3eec","yanked":false}
 {"name":"nrfutil-x86_64-apple-darwin","vers":"7.6.0","cksum":"c6d6bea16178893da417ee72f6315ae9e857a66ce7d73f4944ff930192a503ba","yanked":false}
+{"name":"nrfutil-x86_64-apple-darwin","vers":"7.7.0","cksum":"35be411d896521cde1893cf8fa76129f16a708be6a3fe523f52ace5a6af680eb","yanked":false}
